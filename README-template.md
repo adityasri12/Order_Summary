@@ -11,9 +11,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -31,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My Solution](https://your-solution-url.com)
+- Solution URL: [My Solution](https://github.com/adityasri12/Order_Summary/blob/gh-pages/index.html)
 - Live Site URL: [Live Site](https://adityasri12.github.io/Order_Summary/)
 
 ## My process
